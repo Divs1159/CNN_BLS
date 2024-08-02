@@ -4,7 +4,7 @@
 This repository will contain the source code for the **Semi-Supervised Contour-Driven Broad Learning System for Autonomous Segmentation of Concealed Prohibited Baggage Items**. Currently, the source code is not yet available. We plan to upload the code soon.
 
 ## Block Diagram
-![Block Diagram](link-to-your-block-diagram-image)
+![Block](https://github.com/user-attachments/assets/2d09da2d-e0c3-4a58-b347-85e490b6cdc4)
 
 ## Upcoming Features
 - We will be releasing our code with model weights soon!
