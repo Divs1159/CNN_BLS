@@ -13,4 +13,4 @@ This repository will contain the source code for the **Semi-Supervised Contour-D
 The source code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-If you have any questions or need further information, please contact [divyavelayudhan@gmail.com].
+If you have any questions or need further information, please contact [divyavelayudhan@gmail.com, fta7101pc@hotmail.com].
